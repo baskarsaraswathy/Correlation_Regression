@@ -1,6 +1,6 @@
+                                                            # Name : BASKAR  J
+                                                            # Roll no : 212223040025
 # Correlation and regression for data analysis
-# Name : BASKAR  J
-# Roll no : 212223040025
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
